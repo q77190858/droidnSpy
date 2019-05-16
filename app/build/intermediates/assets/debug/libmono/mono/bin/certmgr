@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /opt/mono/bin/mono $MONO_OPTIONS /opt/mono/lib/mono/4.5/certmgr.exe "$@"

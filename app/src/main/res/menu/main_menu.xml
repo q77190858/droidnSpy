@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:title="初始化运行环境"
+		android:id="@+id/main_menuitem1"/>
+	<item android:title="刷新"
+		android:id="@+id/main_menuitem3"/>
+	<item android:title="退出"
+		android:id="@+id/main_menuitem2"/>
+</menu>

@@ -1,0 +1,61 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/juju/AndroidStudioProjects/droidnSpy/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/juju/AndroidStudioProjects/droidnSpy/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "4,3,5",
+                        "startColumns": "4,4,1",
+                        "startOffsets": "117,56,161",
+                        "endColumns": "46,60,52",
+                        "endOffsets": "159,112,212"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,163",
+                        "endColumns": "46,60,55",
+                        "endOffsets": "97,158,214"
+                    }
+                },
+                {
+                    "source": "/home/juju/AndroidStudioProjects/droidnSpy/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "9",
+                        "endOffsets": "129"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "219",
+                        "endLines": "6",
+                        "endColumns": "9",
+                        "endOffsets": "293"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/juju/AndroidStudioProjects/droidnSpy/app/build/intermediates/res/merged/debug/values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/juju/AndroidStudioProjects/droidnSpy/app/src/main/res/values-v21/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "9",
+                        "endOffsets": "133"
+                    }
+                }
+            ]
+        }
+    ]
+}

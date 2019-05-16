@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /opt/mono/bin/mono --gc-params=nursery-size=64m $MONO_OPTIONS /opt/mono/lib/mono/4.5/csc.exe "$@"
